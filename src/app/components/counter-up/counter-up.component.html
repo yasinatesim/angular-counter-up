@@ -1,0 +1,21 @@
+<div class="card">
+  <div class="card-body">
+    <h2 class="title">Counter Up App</h2>
+    <div class="card-content">
+      <button type="button" class="btn btn--gray" (click)="decrease()">
+        -
+      </button>
+      <span class="counter">{{test}}</span>
+      <button type="button" class="btn btn--red" (click)="increase()">
+        +
+      </button>
+    </div>
+    <div>
+      <button type="button" class="btn btn--gradient" (click)="reset()">
+        Reset
+      </button>
+    </div>
+  </div>
+  <div class="circle circle--small"></div>
+  <div class="circle circle--big"></div>
+</div>
