@@ -114,6 +114,14 @@ App is running on [http://localhost:4200](http://localhost:4200)
 npm run build
 ```
 
+and
+
+
+
+```bash
+npm start
+```
+
 **For Format**
 
 
