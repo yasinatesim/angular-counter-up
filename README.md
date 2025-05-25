@@ -13,7 +13,7 @@ Angular Counter Up
 
 
   <p align="center">
-· <a  href="https://angular-counter-up.yasinatesim.vercel.app/">View Demo</a>
+· <a  href="https://angular-counter-up.yasinates.com/">View Demo</a>
   </p>
 
 
